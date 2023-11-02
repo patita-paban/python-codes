@@ -14,4 +14,3 @@ print(f"the highest score is {highest}")
     
 
 
-s
